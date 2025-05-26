@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Wechat](https://github.com/SHIVANSHUYA/wechat)
 
-- 🌱 I’m currently learning **JavaScript, PHP**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SHIVANSHUYA](https://github.com/SHIVANSHUYA)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, Firebase**
 
 - 📫 How to reach me **yadavshivanshu010@gmail.com**
 
